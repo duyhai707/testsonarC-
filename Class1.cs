@@ -13,7 +13,6 @@ namespace ClassLibrary1
             }
             catch (Exception ex)
             {
-                //log.Error(ex.Message);
                 throw;
             }
         }
